@@ -3,25 +3,25 @@
      viewBox="0 0 900 90">
 
   <defs>
-    <linearGradient id="ctaGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00e5ff"/>
-      <stop offset="100%" stop-color="#2979ff"/>
+    <linearGradient id="ctaGradLight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1976d2"/>
+      <stop offset="100%" stop-color="#26c6da"/>
     </linearGradient>
   </defs>
 
-  <!-- Button -->
+  <!-- Button background -->
   <rect x="150" y="15"
         width="600" height="60"
         rx="30"
-        fill="url(#ctaGrad)"/>
+        fill="url(#ctaGradLight)"/>
 
-  <!-- Button Text -->
-  <text x="450" y="54"
+  <!-- Button text -->
+  <text x="450" y="56"
         text-anchor="middle"
-        font-size="24"
+        font-size="22"
         font-weight="800"
         font-family="Arial, Helvetica, sans-serif"
-        fill="#041018">
-    🚀 USE TEMPORARY EMAIL NOW
+        fill="#ffffff">
+    USE TEMPORARY EMAIL NOW
   </text>
 </svg>
