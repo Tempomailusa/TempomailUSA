@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900" height="260"
+     viewBox="0 0 900 260">
+
+  <!-- Background -->
+  <rect width="900" height="260" rx="22" fill="#050b16"/>
+
+  <!-- Title -->
+  <text x="40" y="42"
+        font-size="22"
+        font-weight="800"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#7cffcb">
+    🛣️ Product Roadmap
+  </text>
+
+  <!-- Phase 1 -->
+  <rect x="40" y="70" width="240" height="140" rx="16" fill="#0b1c2d"/>
+  <text x="160" y="105" text-anchor="middle"
+        font-size="16" font-weight="700" fill="#00e5ff">
+    Phase 1
+  </text>
+  <text x="160" y="135" text-anchor="middle"
+        font-size="14" fill="#e6f1ff">
+    Core temp email
+  </text>
+  <text x="160" y="160" text-anchor="middle"
+        font-size="14" fill="#e6f1ff">
+    Fast inbox delivery
+  </text>
+
+  <!-- Phase 2 -->
+  <rect x="330" y="70" width="240" height="140" rx="16" fill="#0b1c2d"/>
+  <text x="450" y="105" text-anchor="middle"
+        font-size="16" font-weight="700" fill="#ffd54f">
+    Phase 2
+  </text>
+  <text x="450" y="135" text-anchor="middle"
+        font-size="14" fill="#e6f1ff">
+    Domain rotation
+  </text>
+  <text x="450" y="160" text-anchor="middle"
+        font-size="14" fill="#e6f1ff">
+    Spam resistance
+  </text>
+
+  <!-- Phase 3 -->
+  <rect x="620" y="70" width="240" height="140" rx="16" fill="#0b1c2d"/>
+  <text x="740" y="105" text-anchor="middle"
+        font-size="16" font-weight="700" fill="#ff8f00">
+    Phase 3
+  </text>
+  <text x="740" y="135" text-anchor="middle"
+        font-size="14" fill="#e6f1ff">
+    API access
+  </text>
+  <text x="740" y="160" text-anchor="middle"
+        font-size="14" fill="#e6f1ff">
+    Advanced privacy tools
+  </text>
+</svg>
