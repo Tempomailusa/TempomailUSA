@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="TempomailUSA Neon Logo" />
+  <img src="widgets/logo-animated.svg" alt="TempomailUSA Neon Logo" />
 </p>
 
 <p align="center">
