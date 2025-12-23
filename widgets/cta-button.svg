@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900" height="90"
+     viewBox="0 0 900 90">
+
+  <defs>
+    <linearGradient id="ctaGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="100%" stop-color="#2979ff"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Button -->
+  <rect x="150" y="15"
+        width="600" height="60"
+        rx="30"
+        fill="url(#ctaGrad)"/>
+
+  <!-- Button Text -->
+  <text x="450" y="54"
+        text-anchor="middle"
+        font-size="24"
+        font-weight="800"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#041018">
+    🚀 USE TEMPORARY EMAIL NOW
+  </text>
+</svg>
