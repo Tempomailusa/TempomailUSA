@@ -3,53 +3,60 @@
      viewBox="0 0 900 260">
 
   <!-- Background -->
-  <rect width="900" height="260" rx="22" fill="#0b1c2d"/>
+  <rect width="900" height="260" rx="22"
+        fill="#ffffff" stroke="#e0e6ed"/>
 
   <!-- Title -->
   <text x="40" y="42"
         font-size="22"
         font-weight="800"
         font-family="Arial, Helvetica, sans-serif"
-        fill="#90caf9">
-    ⚖️ Legal & Compliance
+        fill="#1976d2">
+    Legal and Compliance
   </text>
 
   <!-- Point 1 -->
   <text x="40" y="90"
         font-size="16"
         font-weight="700"
-        fill="#e6f1ff">
-    Compliance-Friendly Service
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#263238">
+    Compliance Friendly Service
   </text>
   <text x="40" y="115"
         font-size="15"
-        fill="#9fdfff">
-    Designed to align with global privacy and data-protection principles.
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#546e7a">
+    Designed to align with global privacy and data protection principles.
   </text>
 
   <!-- Point 2 -->
   <text x="40" y="155"
         font-size="16"
         font-weight="700"
-        fill="#e6f1ff">
-    GDPR & Privacy-Aware Architecture
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#263238">
+    GDPR and Privacy Aware Architecture
   </text>
   <text x="40" y="180"
         font-size="15"
-        fill="#9fdfff">
-    Minimal data handling with no long-term storage of personal information.
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#546e7a">
+    Minimal data handling with no long term storage of personal information.
   </text>
 
   <!-- Point 3 -->
   <text x="40" y="220"
         font-size="16"
         font-weight="700"
-        fill="#e6f1ff">
-    Terms & Policy Transparency
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#263238">
+    Terms and Policy Transparency
   </text>
   <text x="40" y="245"
         font-size="15"
-        fill="#9fdfff">
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#546e7a">
     Clear terms, privacy summaries, and responsible usage guidelines.
   </text>
 </svg>
