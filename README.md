@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="TempomailUSA Banner" />
+</p>
+
+
 <h1 align="center">TempomailUSA</h1>
 <h3 align="center">Privacy-First Temporary Email Service</h3>
 
