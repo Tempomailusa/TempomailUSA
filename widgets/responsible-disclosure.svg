@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900" height="240"
+     viewBox="0 0 900 240">
+
+  <!-- Background -->
+  <rect width="900" height="240" rx="22" fill="#0b1c2d"/>
+
+  <!-- Title -->
+  <text x="40" y="42"
+        font-size="22"
+        font-weight="800"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#ff8f00">
+    🐞 Responsible Disclosure & Bug Bounty
+  </text>
+
+  <!-- Point 1 -->
+  <text x="40" y="90"
+        font-size="16"
+        font-weight="700"
+        fill="#e6f1ff">
+    Security Researcher Friendly
+  </text>
+  <text x="40" y="115"
+        font-size="15"
+        fill="#9fdfff">
+    We welcome responsible security research and ethical disclosure.
+  </text>
+
+  <!-- Point 2 -->
+  <text x="40" y="155"
+        font-size="16"
+        font-weight="700"
+        fill="#e6f1ff">
+    No Legal Action for Good Faith Reports
+  </text>
+  <text x="40" y="180"
+        font-size="15"
+        fill="#9fdfff">
+    Researchers acting in good faith will not face legal consequences.
+  </text>
+
+  <!-- Point 3 -->
+  <text x="40" y="215"
+        font-size="15"
+        fill="#b3e5fc">
+    Report issues via our official contact page for review.
+  </text>
+</svg>
