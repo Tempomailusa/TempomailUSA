@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="widgets/logo-animated.svg" alt="TempomailUSA Neon Logo" />
+  <img src="widgets/logo.svg" width="100%" alt="TempomailUSA Logo" />
 </p>
 
 <p align="center">
@@ -23,9 +23,15 @@
 
 ---
 
-<img src="widgets/h-about.svg" />
+<img src="widgets/stats.svg" width="100%" />
 
-<img src="widgets/card-about.svg" />
+<img src="widgets/cta-button.svg" width="100%" />
+
+---
+
+<img src="widgets/h-about.svg" width="100%" />
+
+<img src="widgets/card-about.svg" width="100%" />
 
 ### 🧩 About the Project
 
@@ -44,48 +50,37 @@ There is **no registration**, **no personal data collection**, and **no long-ter
 
 ---
 
-<img src="widgets/h-features.svg" />
+<img src="widgets/h-features.svg" width="100%" />
 
-<img src="widgets/card-features.svg" />
+<img src="widgets/card-features.svg" width="100%" />
 
 ### ⚙️ Core Capabilities Explained
 
 **Why TempomailUSA is different:**
 
-- **Instant inbox generation**  
-  Get a working email address immediately — no waiting, no setup.
-
-- **No identity exposure**  
-  Your real inbox stays private and untouched.
-
-- **No logs, no tracking**  
-  We don’t store personal metadata or behavioral data.
-
-- **Fast email delivery**  
-  Designed to receive verification and transactional emails reliably.
-
-- **Developer-friendly**  
-  Useful for QA testing, staging environments, and automation workflows.
+- **Instant inbox generation** — no setup, no waiting  
+- **No identity exposure** — your real inbox stays private  
+- **No logs, no tracking** — minimal data footprint  
+- **Reliable delivery** — built for verification emails  
+- **Developer-friendly** — ideal for testing & QA  
 
 ---
 
-<img src="widgets/h-usecases.svg" />
+<img src="widgets/h-usecases.svg" width="100%" />
 
-<img src="widgets/card-usecases.svg" />
+<img src="widgets/card-usecases.svg" width="100%" />
 
 ### 🧠 Who Uses Disposable Email?
 
-TempomailUSA is used by a wide range of users:
-
 #### 👤 Everyday Users
-- Avoid spam after signing up on websites  
-- Protect personal email from marketing lists  
+- Avoid spam after signups  
+- Protect personal email  
 - Access gated content safely  
 
 #### 👨‍💻 Developers & Testers
-- Test email flows without real accounts  
-- QA sign-up and verification systems  
-- Validate email delivery behavior  
+- Test email flows  
+- QA signup systems  
+- Validate delivery behavior  
 
 #### 🛡️ Privacy-Conscious Users
 - Reduce digital footprint  
@@ -94,11 +89,39 @@ TempomailUSA is used by a wide range of users:
 
 ---
 
-<img src="widgets/h-resources.svg" />
+<img src="widgets/security-no-logs.svg" width="100%" />
+
+<img src="widgets/privacy-policy-summary.svg" width="100%" />
+
+<img src="widgets/legal-compliance.svg" width="100%" />
+
+<img src="widgets/terms-of-service.svg" width="100%" />
+
+---
+
+<img src="widgets/responsible-disclosure.svg" width="100%" />
+
+<img src="widgets/ai-anti-abuse-policy.svg" width="100%" />
+
+---
+
+<img src="widgets/global-availability.svg" width="100%" />
+
+<img src="widgets/open-source-philosophy.svg" width="100%" />
+
+---
+
+<img src="widgets/faq.svg" width="100%" />
+
+<img src="widgets/roadmap.svg" width="100%" />
+
+<img src="widgets/changelog.svg" width="100%" />
+
+---
+
+<img src="widgets/h-resources.svg" width="100%" />
 
 ### 📚 Privacy & Email Security Resources
-
-Learn more about why disposable email matters:
 
 - Disposable Email — Wikipedia  
   https://en.wikipedia.org/wiki/Disposable_email_address  
@@ -106,36 +129,31 @@ Learn more about why disposable email matters:
 - Electronic Frontier Foundation — Online Privacy  
   https://www.eff.org/issues/online-privacy  
 
-- Privacy Guides — Digital Safety  
+- Privacy Guides  
   https://www.privacyguides.org  
 
 ---
 
 ## 🔍 Philosophy & Principles
 
-TempomailUSA is built on these core principles:
+- Privacy by default  
+- Minimal data exposure  
+- Transparency over tracking  
+- User-first design  
+- No dark patterns  
 
-- **Privacy by default**  
-- **Minimal data exposure**  
-- **Transparency over tracking**  
-- **User-first design**  
-- **No dark patterns**  
-
-The goal is simple:  
 > Give users control over their inbox and their identity.
 
 ---
 
 ## 🚀 Getting Started
 
-You don’t need an account or setup.
-
 1. Visit 👉 https://tempomailusa.com  
-2. Get a temporary email address instantly  
-3. Use it wherever needed  
-4. Read incoming messages securely  
+2. Get a temporary email instantly  
+3. Use it anywhere  
+4. Receive emails securely  
 
-That’s it.
+No signup. No tracking.
 
 ---
 
