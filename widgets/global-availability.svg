@@ -1,26 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
-  <rect width="900" height="260" rx="22" fill="#0b1c2d"/>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900" height="260"
+     viewBox="0 0 900 260">
 
-  <text x="40" y="42" font-size="22" font-weight="800"
-        font-family="Arial, Helvetica, sans-serif" fill="#4dd0e1">
-    🌍 Global Availability & Regional Compliance
+  <!-- Light background -->
+  <rect width="900" height="260" rx="22" fill="#ffffff" stroke="#e0e6ed"/>
+
+  <!-- Title -->
+  <text x="40" y="42"
+        font-size="22"
+        font-weight="800"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#1976d2">
+    Global Availability and Regional Compliance
   </text>
 
-  <text x="40" y="90" font-size="16" font-weight="700" fill="#e6f1ff">
+  <!-- Section 1 -->
+  <text x="40" y="90"
+        font-size="16"
+        font-weight="700"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#263238">
     Worldwide Access
   </text>
-  <text x="40" y="115" font-size="15" fill="#9fdfff">
+  <text x="40" y="115"
+        font-size="15"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#546e7a">
     TempomailUSA is accessible globally without regional account restrictions.
   </text>
 
-  <text x="40" y="155" font-size="16" font-weight="700" fill="#e6f1ff">
-    Region-Aware Privacy Practices
+  <!-- Section 2 -->
+  <text x="40" y="155"
+        font-size="16"
+        font-weight="700"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#263238">
+    Region Aware Privacy Practices
   </text>
-  <text x="40" y="180" font-size="15" fill="#9fdfff">
-    Designed with GDPR-aligned and privacy-aware data handling principles.
+  <text x="40" y="180"
+        font-size="15"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#546e7a">
+    Designed with GDPR aligned and privacy focused data handling principles.
   </text>
 
-  <text x="40" y="220" font-size="15" fill="#b3e5fc">
+  <!-- Footer note -->
+  <text x="40" y="220"
+        font-size="14"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#78909c">
     Availability may vary based on local network policies or regulations.
   </text>
 </svg>
