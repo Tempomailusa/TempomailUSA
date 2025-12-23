@@ -1,0 +1,12 @@
+<svg width="900" height="210" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="210" rx="20" fill="#0b1c2d"/>
+
+  <text x="40" y="48" font-size="18" fill="#00e5ff" font-weight="600">
+    Why users choose TempomailUSA
+  </text>
+
+  <text x="40" y="88" font-size="16" fill="#e6f1ff">• Instant email generation</text>
+  <text x="40" y="118" font-size="16" fill="#e6f1ff">• No account or personal data</text>
+  <text x="40" y="148" font-size="16" fill="#e6f1ff">• Spam & tracker protection</text>
+  <text x="40" y="178" font-size="16" fill="#e6f1ff">• Global accessibility</text>
+</svg>
