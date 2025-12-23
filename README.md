@@ -1,85 +1,151 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="TempomailUSA Banner" />
-</p>
-
-
-<h1 align="center">TempomailUSA</h1>
-<h3 align="center">Privacy-First Temporary Email Service</h3>
-
-<p align="center">
-Protect your inbox · Stay anonymous · No sign-ups · No tracking
+  <img src="widgets/logo-animated.svg" alt="TempomailUSA Neon Logo" />
 </p>
 
 <p align="center">
-🌐 <strong>Official Website:</strong> https://tempomailusa.com
+  <strong>Instant • Anonymous • Disposable Email</strong><br/>
+  <sub>Privacy-first temporary email service built for the modern web</sub>
 </p>
 
----
+<p align="center">
+  🌐 <strong>https://tempomailusa.com</strong>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
-  lines=Temporary+Email+for+Online+Privacy;
-  Disposable+Email+for+Signups+and+Verification;
-  Spam-Free+Inbox+in+Seconds;
-  Built+for+Users+and+Developers;
-  No+Logs+No+Tracking&center=true&width=750" />
+  lines=Stop+Spam+Before+It+Starts;
+  Disposable+Email+in+Seconds;
+  No+Signup+No+Logs+Ever;
+  Built+for+Privacy+Focused+Users;
+  Trusted+by+Developers+Worldwide;
+  Clean+Inbox+Zero+Tracking&center=true&width=900" />
 </p>
 
 ---
 
-## 🚀 What is TempomailUSA?
+<img src="widgets/h-about.svg" />
 
-TempomailUSA is a **free disposable email service** designed to help users protect their primary inbox from spam, trackers, and data leaks.
+<img src="widgets/card-about.svg" />
 
-It provides instant, anonymous email addresses that can be used for:
-- Website registrations
-- App testing
-- One-time verifications
-- Privacy-safe browsing
+### 🧩 About the Project
 
-No registration. No personal data. No tracking.
+TempomailUSA is a **privacy-focused disposable email service** designed to help users stay anonymous online without sacrificing convenience.
 
----
+In today’s internet, email addresses are frequently harvested, sold, and abused.  
+TempomailUSA solves this by providing **instant, temporary inboxes** that can be used for:
 
-## 🧠 Common Use Cases
+- Website registrations  
+- App and service trials  
+- Verification codes (OTP)  
+- Testing email workflows  
+- Preventing spam and tracking  
 
-- Temporary email for social media signups  
-- Disposable email for app and API testing  
-- Anonymous inbox for one-time verification codes  
-- Protection from marketing spam and data brokers  
+There is **no registration**, **no personal data collection**, and **no long-term storage**.
 
 ---
 
-## 🛡️ Why Choose TempomailUSA?
+<img src="widgets/h-features.svg" />
 
-- ⚡ Instant inbox generation  
-- 🔒 Privacy-first architecture  
-- 🚫 No logs, no accounts  
-- 🌍 Global accessibility  
-- 🧪 Developer-friendly  
+<img src="widgets/card-features.svg" />
+
+### ⚙️ Core Capabilities Explained
+
+**Why TempomailUSA is different:**
+
+- **Instant inbox generation**  
+  Get a working email address immediately — no waiting, no setup.
+
+- **No identity exposure**  
+  Your real inbox stays private and untouched.
+
+- **No logs, no tracking**  
+  We don’t store personal metadata or behavioral data.
+
+- **Fast email delivery**  
+  Designed to receive verification and transactional emails reliably.
+
+- **Developer-friendly**  
+  Useful for QA testing, staging environments, and automation workflows.
 
 ---
 
-## 📚 Documentation & Guides
+<img src="widgets/h-usecases.svg" />
 
-- 📖 Temporary Email Privacy Guide  
-- 🛡 Email Security Best Practices  
-- 🧪 Disposable Email Testing Documentation  
+<img src="widgets/card-usecases.svg" />
 
-(See repositories below 👇)
+### 🧠 Who Uses Disposable Email?
+
+TempomailUSA is used by a wide range of users:
+
+#### 👤 Everyday Users
+- Avoid spam after signing up on websites  
+- Protect personal email from marketing lists  
+- Access gated content safely  
+
+#### 👨‍💻 Developers & Testers
+- Test email flows without real accounts  
+- QA sign-up and verification systems  
+- Validate email delivery behavior  
+
+#### 🛡️ Privacy-Conscious Users
+- Reduce digital footprint  
+- Avoid data brokers  
+- Stay anonymous online  
 
 ---
 
-## 🔗 Learn More About Email Privacy
+<img src="widgets/h-resources.svg" />
 
-- https://en.wikipedia.org/wiki/Disposable_email_address  
-- https://www.eff.org/issues/online-privacy  
-- https://www.privacyguides.org  
+### 📚 Privacy & Email Security Resources
+
+Learn more about why disposable email matters:
+
+- Disposable Email — Wikipedia  
+  https://en.wikipedia.org/wiki/Disposable_email_address  
+
+- Electronic Frontier Foundation — Online Privacy  
+  https://www.eff.org/issues/online-privacy  
+
+- Privacy Guides — Digital Safety  
+  https://www.privacyguides.org  
+
+---
+
+## 🔍 Philosophy & Principles
+
+TempomailUSA is built on these core principles:
+
+- **Privacy by default**  
+- **Minimal data exposure**  
+- **Transparency over tracking**  
+- **User-first design**  
+- **No dark patterns**  
+
+The goal is simple:  
+> Give users control over their inbox and their identity.
+
+---
+
+## 🚀 Getting Started
+
+You don’t need an account or setup.
+
+1. Visit 👉 https://tempomailusa.com  
+2. Get a temporary email address instantly  
+3. Use it wherever needed  
+4. Read incoming messages securely  
+
+That’s it.
 
 ---
 
 ## 🌍 Official Website
 
-➡️ https://tempomailusa.com  
+➡️ **https://tempomailusa.com**
 
-Clean. Fast. Anonymous.
+A clean, fast, and anonymous way to receive emails  
+without exposing your real inbox.
+
+**No spam.  
+No tracking.  
+No compromises.**
