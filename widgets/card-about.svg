@@ -1,25 +1,39 @@
-<svg width="900" height="180" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0b1c2d"/>
-      <stop offset="100%" stop-color="#102a43"/>
-    </linearGradient>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900" height="180"
+     viewBox="0 0 900 180">
 
-  <rect width="900" height="180" rx="20" fill="url(#bg)" />
+  <!-- Background -->
+  <rect width="900" height="180" rx="20" fill="#ffffff" stroke="#e3e8ef"/>
 
-  <text x="40" y="52" font-size="20" fill="#00e5ff" font-weight="600">
-    Privacy-first disposable email service
+  <!-- Title -->
+  <text x="40" y="50"
+        font-size="22"
+        font-weight="700"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#1976d2">
+    Privacy first disposable email service
   </text>
 
-  <text x="40" y="90" font-size="16" fill="#e6f1ff">
-    TempomailUSA provides instant, anonymous email addresses to protect
-  </text>
-  <text x="40" y="115" font-size="16" fill="#e6f1ff">
-    users from spam, trackers, and data leaks — no signup required.
+  <!-- Description -->
+  <text x="40" y="88"
+        font-size="16"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#37474f">
+    TempomailUSA provides instant and anonymous email addresses to protect
   </text>
 
-  <text x="40" y="150" font-size="14" fill="#9cc7ff">
-    No logs • No tracking • Instant inbox
+  <text x="40" y="114"
+        font-size="16"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#37474f">
+    users from spam, trackers, and data leaks without signup.
+  </text>
+
+  <!-- Footer -->
+  <text x="40" y="148"
+        font-size="14"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#607d8b">
+    No logs  |  No tracking  |  Instant inbox
   </text>
 </svg>
