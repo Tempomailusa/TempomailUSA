@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="widgets/logo.svg" width="100%" alt="TempomailUSA Logo" />
+  <img src="widgets/logo-animated.svg" width="100%" alt="TempomailUSA Logo" />
 </p>
 
 <p align="center">
