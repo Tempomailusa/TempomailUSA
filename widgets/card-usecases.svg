@@ -1,11 +1,40 @@
-<svg width="900" height="200" xmlns="http://www.w3.org/2000/svg">
-  <rect width="900" height="200" rx="20" fill="#1a1f0f"/>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900" height="200"
+     viewBox="0 0 900 200">
 
-  <text x="40" y="48" font-size="18" fill="#ffd54f" font-weight="600">
+  <!-- Card background -->
+  <rect width="900" height="200" rx="22"
+        fill="#ffffff" stroke="#e3e8ef"/>
+
+  <!-- Title -->
+  <text x="40" y="48"
+        font-size="20"
+        font-weight="700"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#1976d2">
     Where disposable email is useful
   </text>
 
-  <text x="40" y="88" font-size="16" fill="#fff8e1">• Website & app signups</text>
-  <text x="40" y="118" font-size="16" fill="#fff8e1">• OTP & verification testing</text>
-  <text x="40" y="148" font-size="16" fill="#fff8e1">• Privacy-safe browsing</text>
+  <!-- Bullet points -->
+  <text x="40" y="88"
+        font-size="16"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#37474f">
+    • Website &amp; app signups
+  </text>
+
+  <text x="40" y="118"
+        font-size="16"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#37474f">
+    • OTP and verification testing
+  </text>
+
+  <text x="40" y="148"
+        font-size="16"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#37474f">
+    • Privacy safe browsing
+  </text>
+
 </svg>
