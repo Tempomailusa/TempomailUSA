@@ -1,26 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
-  <rect width="900" height="260" rx="22" fill="#050b16"/>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900" height="260"
+     viewBox="0 0 900 260">
 
-  <text x="40" y="42" font-size="22" font-weight="800"
-        font-family="Arial, Helvetica, sans-serif" fill="#ffab91">
-    🧠 AI & Anti-Abuse Policy
-  </text>
+  <!-- Background -->
+  <rect width="900" height="260" rx="22" fill="#ffffff" stroke="#e0e6ed"/>
 
-  <text x="40" y="90" font-size="16" font-weight="700" fill="#e6f1ff">
-    Abuse-Prevention Measures
-  </text>
-  <text x="40" y="115" font-size="15" fill="#9fdfff">
-    Systems are monitored to prevent automated abuse and malicious usage.
-  </text>
-
-  <text x="40" y="155" font-size="16" font-weight="700" fill="#e6f1ff">
-    AI-Assisted Protection
-  </text>
-  <text x="40" y="180" font-size="15" fill="#9fdfff">
-    Automated systems may be used to detect spam, flooding, or misuse patterns.
+  <!-- Title -->
+  <text x="40" y="42"
+        font-size="22"
+        font-weight="800"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#1976d2">
+    AI and Anti-Abuse Policy
   </text>
 
-  <text x="40" y="220" font-size="15" fill="#b3e5fc">
+  <!-- Section 1 -->
+  <text x="40" y="90"
+        font-size="16"
+        font-weight="700"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#263238">
+    Abuse Prevention Measures
+  </text>
+  <text x="40" y="115"
+        font-size="15"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#546e7a">
+    Systems are monitored to reduce automated abuse and malicious usage.
+  </text>
+
+  <!-- Section 2 -->
+  <text x="40" y="155"
+        font-size="16"
+        font-weight="700"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#263238">
+    AI Assisted Protection
+  </text>
+  <text x="40" y="180"
+        font-size="15"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#546e7a">
+    Automated detection may be used to identify spam, flooding, or misuse patterns.
+  </text>
+
+  <!-- Footer -->
+  <text x="40" y="220"
+        font-size="15"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#607d8b">
     No AI profiling or behavioral tracking of individual users.
   </text>
 </svg>
