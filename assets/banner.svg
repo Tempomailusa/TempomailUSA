@@ -1,0 +1,64 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Neon Gradient -->
+    <linearGradient id="neonGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00fff0">
+        <animate attributeName="stop-color"
+                 values="#00fff0;#7cff00;#00b3ff;#00fff0"
+                 dur="5s"
+                 repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#7c4dff">
+        <animate attributeName="stop-color"
+                 values="#7c4dff;#ff4081;#7c4dff"
+                 dur="5s"
+                 repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- Strong Glow -->
+    <filter id="neonGlow">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Pulse animation -->
+    <animate id="pulse"
+      attributeName="opacity"
+      values="1;0.85;1"
+      dur="2.5s"
+      repeatCount="indefinite" />
+  </defs>
+
+  <!-- MAIN TEXT -->
+  <text x="50%" y="55%"
+        text-anchor="middle"
+        font-size="92"
+        font-weight="900"
+        letter-spacing="2"
+        font-family="Segoe UI, Arial, sans-serif"
+        fill="url(#neonGradient)"
+        filter="url(#neonGlow)">
+    TempomailUSA
+    <animate attributeName="opacity"
+             values="1;0.9;1"
+             dur="2.8s"
+             repeatCount="indefinite"/>
+  </text>
+
+  <!-- SUBTITLE BACK PLATE -->
+  <rect x="260" y="150" width="480" height="40" rx="20" fill="#0b1220" opacity="0.85"/>
+
+  <!-- SUBTITLE -->
+  <text x="50%" y="178"
+        text-anchor="middle"
+        font-size="18"
+        font-weight="600"
+        font-family="Segoe UI, Arial, sans-serif"
+        fill="#9cfffa">
+    PRIVACY • DISPOSABLE • INSTANT EMAIL
+  </text>
+</svg>
