@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900" height="260"
+     viewBox="0 0 900 260">
+
+  <!-- Background -->
+  <rect width="900" height="260" rx="22" fill="#0b1c2d"/>
+
+  <!-- Title -->
+  <text x="40" y="42"
+        font-size="22"
+        font-weight="800"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#90caf9">
+    ⚖️ Legal & Compliance
+  </text>
+
+  <!-- Point 1 -->
+  <text x="40" y="90"
+        font-size="16"
+        font-weight="700"
+        fill="#e6f1ff">
+    Compliance-Friendly Service
+  </text>
+  <text x="40" y="115"
+        font-size="15"
+        fill="#9fdfff">
+    Designed to align with global privacy and data-protection principles.
+  </text>
+
+  <!-- Point 2 -->
+  <text x="40" y="155"
+        font-size="16"
+        font-weight="700"
+        fill="#e6f1ff">
+    GDPR & Privacy-Aware Architecture
+  </text>
+  <text x="40" y="180"
+        font-size="15"
+        fill="#9fdfff">
+    Minimal data handling with no long-term storage of personal information.
+  </text>
+
+  <!-- Point 3 -->
+  <text x="40" y="220"
+        font-size="16"
+        font-weight="700"
+        fill="#e6f1ff">
+    Terms & Policy Transparency
+  </text>
+  <text x="40" y="245"
+        font-size="15"
+        fill="#9fdfff">
+    Clear terms, privacy summaries, and responsible usage guidelines.
+  </text>
+</svg>
