@@ -3,27 +3,29 @@
      viewBox="0 0 900 260">
 
   <!-- Background -->
-  <rect width="900" height="260" rx="22" fill="#0b1c2d"/>
+  <rect width="900" height="260" rx="22" fill="#ffffff" stroke="#e0e6ed"/>
 
   <!-- Title -->
   <text x="40" y="42"
         font-size="22"
         font-weight="800"
         font-family="Arial, Helvetica, sans-serif"
-        fill="#7cffcb">
-    🔐 Security & No-Logs Policy
+        fill="#1976d2">
+    Security and No Logs Policy
   </text>
 
   <!-- Bullet 1 -->
   <text x="40" y="90"
         font-size="16"
         font-weight="700"
-        fill="#e6f1ff">
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#263238">
     No Email Content Logging
   </text>
   <text x="40" y="115"
         font-size="15"
-        fill="#9fdfff">
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#546e7a">
     Messages are temporary and automatically removed after expiry.
   </text>
 
@@ -31,12 +33,14 @@
   <text x="40" y="155"
         font-size="16"
         font-weight="700"
-        fill="#e6f1ff">
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#263238">
     No IP or User Tracking
   </text>
   <text x="40" y="180"
         font-size="15"
-        fill="#9fdfff">
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#546e7a">
     We do not store IP addresses, fingerprints, or user identifiers.
   </text>
 
@@ -44,12 +48,14 @@
   <text x="40" y="220"
         font-size="16"
         font-weight="700"
-        fill="#e6f1ff">
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#263238">
     Privacy by Design
   </text>
   <text x="40" y="245"
         font-size="15"
-        fill="#9fdfff">
-    Built with minimal data exposure and security-first principles.
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#546e7a">
+    Built with minimal data exposure and security first principles.
   </text>
 </svg>
