@@ -1,26 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
-  <rect width="900" height="260" rx="22" fill="#0b1c2d"/>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900" height="300"
+     viewBox="0 0 900 300">
 
-  <text x="40" y="42" font-size="22" font-weight="800"
-        font-family="Arial, Helvetica, sans-serif" fill="#ce93d8">
-    📜 Terms of Service — Summary
+  <!-- Card background -->
+  <rect width="900" height="300" rx="22" fill="#ffffff" stroke="#e0e6ed"/>
+
+  <!-- Accent bar -->
+  <rect x="0" y="0" width="900" height="6" fill="#42a5f5"/>
+
+  <!-- Title -->
+  <text x="40" y="42"
+        font-size="22"
+        font-weight="800"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#1976d2">
+    Terms of Service Summary
   </text>
 
-  <text x="40" y="90" font-size="16" font-weight="700" fill="#e6f1ff">
-    Fair & Responsible Usage
+  <!-- Section 1 -->
+  <text x="40" y="90"
+        font-size="16"
+        font-weight="700"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#263238">
+    Fair and Responsible Usage
   </text>
-  <text x="40" y="115" font-size="15" fill="#9fdfff">
-    The service is provided for lawful, ethical, and privacy-respecting use.
+  <text x="40" y="115"
+        font-size="15"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#455a64">
+    The service must be used for lawful, ethical, and privacy-respecting purposes only.
   </text>
 
-  <text x="40" y="155" font-size="16" font-weight="700" fill="#e6f1ff">
+  <!-- Section 2 -->
+  <text x="40" y="155"
+        font-size="16"
+        font-weight="700"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#263238">
     No Warranty or Guarantees
   </text>
-  <text x="40" y="180" font-size="15" fill="#9fdfff">
-    The service is offered “as-is” without uptime or delivery guarantees.
+  <text x="40" y="180"
+        font-size="15"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#455a64">
+    The service is provided as-is without guarantees of uptime or email delivery.
   </text>
 
-  <text x="40" y="220" font-size="15" fill="#b3e5fc">
-    Full terms are available on the official website.
+  <!-- Section 3 -->
+  <text x="40" y="220"
+        font-size="16"
+        font-weight="700"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#263238">
+    Abuse and Misuse Prevention
   </text>
+  <text x="40" y="245"
+        font-size="15"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#455a64">
+    Automated abuse, spam campaigns, or illegal activity may result in access restrictions.
+  </text>
+
+  <!-- Footer note -->
+  <text x="40" y="275"
+        font-size="14"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#607d8b">
+    Refer to the official website for the complete and binding terms.
+  </text>
+
 </svg>
