@@ -2,54 +2,60 @@
      width="900" height="260"
      viewBox="0 0 900 260">
 
-  <!-- Background -->
-  <rect width="900" height="260" rx="22" fill="#050b16"/>
+  <!-- Card background -->
+  <rect width="900" height="260" rx="22" fill="#ffffff" stroke="#e0e6ed"/>
 
   <!-- Title -->
   <text x="40" y="42"
         font-size="22"
         font-weight="800"
         font-family="Arial, Helvetica, sans-serif"
-        fill="#00e5ff">
-    🔒 Privacy Policy Summary
+        fill="#1976d2">
+    Privacy Policy Summary
   </text>
 
   <!-- Bullet 1 -->
   <text x="40" y="90"
         font-size="16"
         font-weight="700"
-        fill="#e6f1ff">
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#263238">
     No Personal Information Collected
   </text>
   <text x="40" y="115"
         font-size="15"
-        fill="#9fdfff">
-    We do not require names, emails, or accounts to use the service.
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#546e7a">
+    We do not require names, email addresses, or user accounts to use the service.
   </text>
 
   <!-- Bullet 2 -->
   <text x="40" y="155"
         font-size="16"
         font-weight="700"
-        fill="#e6f1ff">
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#263238">
     Temporary Data Handling
   </text>
   <text x="40" y="180"
         font-size="15"
-        fill="#9fdfff">
-    Emails are short-lived and automatically removed after expiry.
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#546e7a">
+    Emails are short lived and automatically removed after expiration.
   </text>
 
   <!-- Bullet 3 -->
   <text x="40" y="220"
         font-size="16"
         font-weight="700"
-        fill="#e6f1ff">
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#263238">
     No Tracking or Analytics Profiling
   </text>
   <text x="40" y="245"
         font-size="15"
-        fill="#9fdfff">
-    We avoid invasive tracking and behavioral analytics.
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#546e7a">
+    We avoid invasive tracking techniques and behavioral analytics.
   </text>
 </svg>
