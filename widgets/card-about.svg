@@ -1,0 +1,25 @@
+<svg width="900" height="180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0b1c2d"/>
+      <stop offset="100%" stop-color="#102a43"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="180" rx="20" fill="url(#bg)" />
+
+  <text x="40" y="52" font-size="20" fill="#00e5ff" font-weight="600">
+    Privacy-first disposable email service
+  </text>
+
+  <text x="40" y="90" font-size="16" fill="#e6f1ff">
+    TempomailUSA provides instant, anonymous email addresses to protect
+  </text>
+  <text x="40" y="115" font-size="16" fill="#e6f1ff">
+    users from spam, trackers, and data leaks — no signup required.
+  </text>
+
+  <text x="40" y="150" font-size="14" fill="#9cc7ff">
+    No logs • No tracking • Instant inbox
+  </text>
+</svg>
