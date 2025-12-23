@@ -2,54 +2,57 @@
      width="900" height="260"
      viewBox="0 0 900 260">
 
-  <!-- Background -->
-  <rect width="900" height="260" rx="22" fill="#050b16"/>
+  <!-- Card background -->
+  <rect width="900" height="260"
+        rx="22"
+        fill="#ffffff"
+        stroke="#e0e6ed"/>
 
   <!-- Title -->
   <text x="40" y="42"
         font-size="22"
         font-weight="800"
         font-family="Arial, Helvetica, sans-serif"
-        fill="#ffd54f">
-    🧾 Changelog
+        fill="#1976d2">
+    Changelog
   </text>
 
   <!-- Version 1 -->
   <text x="40" y="90"
         font-size="16"
         font-weight="700"
-        fill="#e6f1ff">
-    v1.2.0 — Performance & Stability
+        fill="#263238">
+    v1.2.0 - Performance and Stability
   </text>
   <text x="40" y="115"
         font-size="15"
-        fill="#9fdfff">
-    • Faster inbox loading • Improved email parsing
+        fill="#455a64">
+    Faster inbox loading · Improved email parsing
   </text>
 
   <!-- Version 2 -->
   <text x="40" y="155"
         font-size="16"
         font-weight="700"
-        fill="#e6f1ff">
-    v1.1.0 — Security Enhancements
+        fill="#263238">
+    v1.1.0 - Security Enhancements
   </text>
   <text x="40" y="180"
         font-size="15"
-        fill="#9fdfff">
-    • Stronger spam filtering • Better domain rotation
+        fill="#455a64">
+    Stronger spam filtering · Better domain rotation
   </text>
 
   <!-- Version 3 -->
   <text x="40" y="220"
         font-size="16"
         font-weight="700"
-        fill="#e6f1ff">
-    v1.0.0 — Initial Release
+        fill="#263238">
+    v1.0.0 - Initial Release
   </text>
   <text x="40" y="245"
         font-size="15"
-        fill="#9fdfff">
-    • Core temporary email functionality
+        fill="#455a64">
+    Core temporary email functionality
   </text>
 </svg>
