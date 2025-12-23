@@ -1,26 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
-  <rect width="900" height="260" rx="22" fill="#050b16"/>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900" height="260"
+     viewBox="0 0 900 260">
 
-  <text x="40" y="42" font-size="22" font-weight="800"
-        font-family="Arial, Helvetica, sans-serif" fill="#81c784">
-    🏛️ Open-Source License Philosophy
+  <!-- Background -->
+  <rect width="900" height="260" rx="22"
+        fill="#ffffff" stroke="#e0e6ed"/>
+
+  <!-- Title -->
+  <text x="40" y="42"
+        font-size="22"
+        font-weight="800"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#1976d2">
+    Open Source License Philosophy
   </text>
 
-  <text x="40" y="90" font-size="16" font-weight="700" fill="#e6f1ff">
+  <!-- Section 1 -->
+  <text x="40" y="90"
+        font-size="16"
+        font-weight="700"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#263238">
     Transparency Over Obscurity
   </text>
-  <text x="40" y="115" font-size="15" fill="#9fdfff">
-    We believe open documentation and clear design build stronger trust.
+  <text x="40" y="115"
+        font-size="15"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#546e7a">
+    Clear documentation and open design choices help build long term trust.
   </text>
 
-  <text x="40" y="155" font-size="16" font-weight="700" fill="#e6f1ff">
-    Community-Respecting Licensing
+  <!-- Section 2 -->
+  <text x="40" y="155"
+        font-size="16"
+        font-weight="700"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#263238">
+    Community Respecting Licensing
   </text>
-  <text x="40" y="180" font-size="15" fill="#9fdfff">
-    Documentation and resources follow permissive licensing principles.
+  <text x="40" y="180"
+        font-size="15"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#546e7a">
+    Resources follow permissive licensing principles aligned with open standards.
   </text>
 
-  <text x="40" y="220" font-size="15" fill="#b3e5fc">
-    Contributions and collaboration are welcome when aligned with privacy goals.
+  <!-- Footer -->
+  <text x="40" y="220"
+        font-size="14"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#78909c">
+    Contributions and collaboration are encouraged when aligned with privacy goals.
   </text>
 </svg>
