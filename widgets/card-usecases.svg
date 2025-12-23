@@ -1,0 +1,11 @@
+<svg width="900" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="200" rx="20" fill="#1a1f0f"/>
+
+  <text x="40" y="48" font-size="18" fill="#ffd54f" font-weight="600">
+    Where disposable email is useful
+  </text>
+
+  <text x="40" y="88" font-size="16" fill="#fff8e1">• Website & app signups</text>
+  <text x="40" y="118" font-size="16" fill="#fff8e1">• OTP & verification testing</text>
+  <text x="40" y="148" font-size="16" fill="#fff8e1">• Privacy-safe browsing</text>
+</svg>
