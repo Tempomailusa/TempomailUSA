@@ -1,13 +1,23 @@
-<svg width="900" height="64" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900" height="64"
+     viewBox="0 0 900 64">
+
   <defs>
-    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00e5ff"/>
-      <stop offset="100%" stop-color="#2979ff"/>
+    <linearGradient id="aboutLightGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#42a5f5"/>
+      <stop offset="100%" stop-color="#4dd0e1"/>
     </linearGradient>
   </defs>
-  <rect width="900" height="64" rx="14" fill="url(#g)" />
-  <text x="28" y="42" font-size="26" font-weight="700"
-        fill="#06121f" font-family="Segoe UI, Arial">
-    🚀 What is TempomailUSA?
+
+  <!-- Background -->
+  <rect width="900" height="64" rx="14" fill="url(#aboutLightGrad)"/>
+
+  <!-- Title -->
+  <text x="28" y="42"
+        font-size="26"
+        font-weight="800"
+        font-family="Arial, Helvetica, sans-serif"
+        fill="#ffffff">
+    What is TempomailUSA?
   </text>
 </svg>
