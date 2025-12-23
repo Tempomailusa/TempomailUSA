@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+  <rect width="900" height="260" rx="22" fill="#0b1c2d"/>
+
+  <text x="40" y="42" font-size="22" font-weight="800"
+        font-family="Arial, Helvetica, sans-serif" fill="#ce93d8">
+    📜 Terms of Service — Summary
+  </text>
+
+  <text x="40" y="90" font-size="16" font-weight="700" fill="#e6f1ff">
+    Fair & Responsible Usage
+  </text>
+  <text x="40" y="115" font-size="15" fill="#9fdfff">
+    The service is provided for lawful, ethical, and privacy-respecting use.
+  </text>
+
+  <text x="40" y="155" font-size="16" font-weight="700" fill="#e6f1ff">
+    No Warranty or Guarantees
+  </text>
+  <text x="40" y="180" font-size="15" fill="#9fdfff">
+    The service is offered “as-is” without uptime or delivery guarantees.
+  </text>
+
+  <text x="40" y="220" font-size="15" fill="#b3e5fc">
+    Full terms are available on the official website.
+  </text>
+</svg>
