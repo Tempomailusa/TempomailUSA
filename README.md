@@ -25,7 +25,8 @@
 
 <img src="widgets/stats.svg" width="100%" />
 
-<img src="widgets/cta-button.svg" width="100%" />
+[![Use Temporary Email](https://raw.githubusercontent.com/Tempomailusa/TempomailUSA/main/widgets/cta-button.svg)](https://tempomailusa.com)
+
 
 ---
 
