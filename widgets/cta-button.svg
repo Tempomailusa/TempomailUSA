@@ -9,19 +9,25 @@
     </linearGradient>
   </defs>
 
-  <!-- Button background -->
-  <rect x="150" y="15"
-        width="600" height="60"
-        rx="30"
-        fill="url(#ctaGradLight)"/>
+  <!-- CLICKABLE LINK -->
+  <a href="https://tempomailusa.com" target="_blank" rel="noopener noreferrer">
 
-  <!-- Button text -->
-  <text x="450" y="56"
-        text-anchor="middle"
-        font-size="22"
-        font-weight="800"
-        font-family="Arial, Helvetica, sans-serif"
-        fill="#ffffff">
-    USE TEMPORARY EMAIL NOW
-  </text>
+    <!-- Button background -->
+    <rect x="150" y="15"
+          width="600" height="60"
+          rx="30"
+          fill="url(#ctaGradLight)"/>
+
+    <!-- Button text -->
+    <text x="450" y="56"
+          text-anchor="middle"
+          font-size="22"
+          font-weight="800"
+          font-family="Arial, Helvetica, sans-serif"
+          fill="#ffffff"
+          pointer-events="none">
+      USE TEMPORARY EMAIL NOW
+    </text>
+
+  </a>
 </svg>
